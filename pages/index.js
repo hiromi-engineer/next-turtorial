@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Styles from '../styles/Home.module.css';
-import useSWR  from "SWR"
+import useSWR  from "swr"
 
 export default function Home() {
 
